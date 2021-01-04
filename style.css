@@ -7,13 +7,17 @@ h1{
     font-family: 'Roboto Mono', monospace;
 }
 .name{
-    color: rgb(210, 126, 30);
+    color: rgb(63, 30, 210);
 }
 .p {
 width: 40%;
 float: left;
 margin-left: 5%;
 padding-left: 3%;
+padding-bottom: 40px;
+overflow:auto;
+
+
 
 }
 .p img{
@@ -37,5 +41,22 @@ padding-left: 3%;
 }
 .section{
     height: 500px;
+    padding-bottom: 200px;
     
+    
+}
+.dream img {
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exp{
+    padding-bottom: 200px;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left
+}
+.exp single-experience{
+    box-shadow: 10px 1opx gray;
 }
