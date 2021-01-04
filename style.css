@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+.name{
+    color: rgb(210, 126, 30);
+}
+.p {
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 3%;
+
+}
+.p img{
+    width: 100%;
+    
+   
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red,salmon);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.banner1 img{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+   
+
+}
+.section{
+    height: 500px;
+    
+}
